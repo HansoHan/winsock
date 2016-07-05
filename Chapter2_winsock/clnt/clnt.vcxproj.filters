@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tcp_client_win.c">
+    <ClCompile Include="Problem06_c.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
